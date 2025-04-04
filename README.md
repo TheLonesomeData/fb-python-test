@@ -44,6 +44,10 @@ Implement the following endpoints:
 - Update a post
 - Delete a post
 
+### Stretch Goal
+
+If time allows, add unit tests for some of the endpoints you've implemented. This will help demonstrate your understanding of testing in your chosen framework.
+
 ### Framework-Specific Guidelines
 
 #### If using Django
