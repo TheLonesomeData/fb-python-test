@@ -37,7 +37,6 @@ Implement the following endpoints:
 - Delete an author
 
 #### BlogPost Endpoints
-- List all blog posts
 - List all posts by a specific author
 - Get a specific post
 - Create a new post
