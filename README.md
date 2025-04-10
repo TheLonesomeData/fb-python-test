@@ -30,18 +30,11 @@ Design the models with appropriate fields that you think would be necessary for 
 Implement the following endpoints:
 
 #### Author Endpoints
-- List all authors
-- Get a specific author
 - Create a new author
-- Update an author
-- Delete an author
 
 #### BlogPost Endpoints
 - List all posts by a specific author
-- Get a specific post
 - Create a new post
-- Update a post
-- Delete a post
 
 ### Stretch Goal
 
