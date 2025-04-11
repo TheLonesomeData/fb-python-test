@@ -48,6 +48,23 @@ Choose one of the backend frameworks and implement a blog application following 
 
 ## Setup Instructions
 
+### Python Version
+This project requires Python 3.10.7. We recommend using pyenv to manage Python versions:
+
+```bash
+# Install pyenv (macOS)
+brew install pyenv
+
+# Install Python 3.10.7
+pyenv install 3.10.7
+
+# Set Python 3.10.7 for this project
+pyenv local 3.10.7
+
+# Verify the Python version
+python --version  # Should show Python 3.10.7
+```
+
 ### Backend Setup
 
 1. Choose one of the frameworks (Django, Flask, or FastAPI)
